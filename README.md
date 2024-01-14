@@ -1,4 +1,4 @@
-#**Firestorm**
+## Firestorm
 
 A 2D platformer game with unique twists created with Assembly, featuring jump mechanics, moving platforms, and lava. Created backgrounds and sprites using a custom Python RGB converter.
 
