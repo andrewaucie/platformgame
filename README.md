@@ -7,5 +7,5 @@ A 2D platformer game with unique twists created with Assembly, featuring jump me
 
 Video Demo:
 
-[![](http://markdown-videos-api.jorgenkh.no/youtube/AYIsV4lBkxs)](https://youtu.be/AYIsV4lBkxs)
+[![](http://markdown-videos-api.jorgenkh.no/youtube/AYIsV4lBkxs)](https://www.youtube.com/watch?v=oKZdytaCIBE)
 
