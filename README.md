@@ -3,6 +3,8 @@
 [![Demo Video](https://img.youtube.com/vi/oKZdytaCIBE/0.jpg)](https://www.youtube.com/watch?v=oKZdytaCIBE)  
 *Click the image above to watch the gameplay demo.*
 
+https://www.youtube.com/watch?v=oKZdytaCIBE
+
 ---
 
 ## Overview
@@ -45,18 +47,18 @@
    git clone https://github.com/andrewaucie/platformgame.git
    cd platformgame
    ```
-2. Convert assets
+2. **Convert assets**
   ```bash
   python asset_converter.py input.png output.data
   ```
 
-3. Assemble & link
+3. **Assemble & link**
   ```bash
   nasm -f elf game.asm -o game.o
   ld -m elf_i386 game.o -o game
   ```
 
-3. Run the game
+3. **Run the game**
   ```bash
   ./game
   ```
